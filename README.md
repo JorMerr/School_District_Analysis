@@ -26,8 +26,10 @@ See below the updated District Summary table after replacing Thomas High School 
 ![New District Summary](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_district_summary_df.PNG)
 
 The summary of math and reading scores per individual school has been affected by replacing Thomas High School ninth grade scores with NaN in the following ways:
+
 Brief comparison of the per_school_summary_df tables before and after the replacement of Thomas High School ninth grade scores shows the only figures which have been altered are those belonging to Thomas High School. This is as intended, given the request by the school board to replace only the ninth grade scores for Thomas High School.
-![Original Per School Summary[(https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_per_school_summary_df.PNG)
+
+![Original Per School Summary](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_per_school_summary_df.PNG)
 ![Per School Summary with 9th Grade NaN Values Not Included](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_per_school_summary_df_2.PNG)
 
 Replacing Thomas High School ninth grade scores resulted in the following changes to Thomas High School's scores and standing (As seen in the above images):
