@@ -58,11 +58,11 @@ Click to view original scores for [math](https://github.com/JorMerr/School_Distr
 
 Click to view updated scores for [math](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_math_scores_by_grade.PNG) and [reading](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_reading_scores_by_grade.PNG)
 
-	- The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school spending.
+     - The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school spending.
 
-	- The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school size.
+     - The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school size.
 
-	- The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school type.
+     - The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school type.
 
 
 
