@@ -52,7 +52,7 @@ See below the updated District Summary table after replacing Thomas High School 
 
 - The replacement of Thomas High School's ninth grade scores results in the following changes elsewhere in the analysis:
 
-	- Math and reading scores by grade remain unchanged for all but the Thomas High School ninth grade scores, replaced by "NaN". Click to view original scores for [math](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_math_scores_by_grade.PNG) and [reading](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_reading_scores_by_grade.PNG. Click to view updated scores for [math](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_math_scores_by_grade.PNG) and [reading](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_reading_scores_by_grade.PNG)
+	- Math and reading scores by grade remain unchanged for all but the Thomas High School ninth grade scores, replaced by "NaN". Click to view original scores for [math](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_math_scores_by_grade.PNG) and [reading](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/original_reading_scores_by_grade.PNG). Click to view updated scores for [math](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_math_scores_by_grade.PNG) and [reading](https://github.com/JorMerr/School_District_Analysis/blob/main/Resources/new_reading_scores_by_grade.PNG)
 
      - The changes to Thomas High School's ninth grade scores did not impact the school board's overall results based on school spending.
 
